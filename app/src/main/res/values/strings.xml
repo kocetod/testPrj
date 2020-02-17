@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Registration-->
+    <string name="car_registration_text">Car registration</string>
+    <string name="checking_dvla">Checking with DVLA</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="complete_registration">Car registration complete!</string>
+    <string name="refresh_car">Refresh car</string>
+
+    <!-- complete registration -->
+    <string name="car_type">Car Type:</string>
+    <string name="registered">Registered:</string>
+    <string name="color">Color:</string>
+    <string name="tax">Tax:</string>
+    <string name="tax_due_date">Tax Due Date:</string>
+    <string name="mot">MOT:</string>
+    <string name="mot_due_date">MOT Due Date:</string>
+
+</resources>
